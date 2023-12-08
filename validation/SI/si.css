@@ -1,0 +1,26 @@
+table{
+    background-color: rgb(161, 161, 169);
+    border-radius: 5px;
+    height: 200px;
+    width: 150px;
+}
+label{
+    color: antiquewhite;
+    font-size: medium;
+    font-weight: 20px;
+}
+#id3{
+    border-radius: 5px;
+}
+#id2{
+    border-radius: 5px;
+}
+#id1{
+    border-radius: 5px;
+}
+#b1{
+    color: rgb(255, 0, 17);
+}
+#b2{
+    color: black;
+}

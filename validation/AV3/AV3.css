@@ -1,0 +1,19 @@
+table{
+    background-color: lightblue;
+    border-block-color: black;
+}
+label{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    font-style: italic;
+    font: bold;
+}
+*{
+    padding: 10px;
+}
+#b1{
+    color: blue;
+}
+#b2{
+    color: crimson;
+}
